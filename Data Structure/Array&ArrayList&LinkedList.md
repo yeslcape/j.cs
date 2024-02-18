@@ -2,12 +2,13 @@
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbxSQdR%2FbtqTyBzXfTx%2FJg0RdLWPPDZhnPv2ywDZ3k%2Fimg.png)
 
 ## Array vs ArrayList vs LinkedList 특징
-|          | Array | ArrayList | LinkedList |
-|----------|------|----------|-----------|
-| 사이즈      | 불변   | 가변       | 가변        |
-| 조회       | 빠름   | 빠름       | 느림        |
-| (비순차적) 삽입 | 느림   | 느림       | 빠름        |
-| (비순차적) 삭제 | 느림   | 느림       | 빠름        |
+|             | Array    | ArrayList | LinkedList   |
+|-------------|----------|-----------|--------------|
+| 사이즈         | 불변       | 가변        | 가변           |
+| 조회          | 빠름(O(1)) | 빠름(O(1))  | 느림(O(N))     |
+| (비순차적) 삽입   | 느림(O(N)) | 느림(O(N))  | 빠름(O(1))     |
+| (비순차적) 삭제   | 느림(O(N)) | 느림(O(N))  | 빠름(O(1))     |
+| List 크기 구하기 | O(N) | O(N)  | O(1) or O(N) |
 
 ## Array
 > 데이터타입 배열이름[배열길이]
