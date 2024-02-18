@@ -2,10 +2,6 @@
 |             | Stack    | Queue    |
 |-------------|----------|----------|
 | IN/OUT 방식   | LIFO     | FIFO     |
-| 조회          | 빠름(O(1)) | 빠름(O(1)) |
-| (비순차적) 삽입   | 느림(O(N)) | 느림(O(N)) |
-| (비순차적) 삭제   | 느림(O(N)) | 느림(O(N)) |
-| List 크기 구하기 | O(N)     | O(N)     |
 
 ## Stack
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbmlHbt%2FbtrnjHxkal4%2FMCvYE5QEcgfbtZhXM0cJb0%2Fimg.png)
