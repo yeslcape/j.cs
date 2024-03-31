@@ -7,3 +7,4 @@
 * [Tree](Data%20Structure/Tree.md)
 * [Binary Search Tree](Data%20Structure/BinarySearchTree.md)
 * [Hash](Data%20Structure/Hash.md)
+* [Trie](Data%20Structure/Trie.md)
