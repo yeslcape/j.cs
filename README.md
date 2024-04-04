@@ -8,3 +8,4 @@
 * [Binary Search Tree](Data%20Structure/BinarySearchTree.md)
 * [Hash](Data%20Structure/Hash.md)
 * [Trie](Data%20Structure/Trie.md)
+* [B-Tree](Data%20Structure/B-Tree.md)
