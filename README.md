@@ -1,5 +1,8 @@
 # j.cs
 
+### Computer Architecture
+* [컴퓨터구조](Computer%20Architecture/컴퓨터구조.md)
+
 ### Data Structure
 * [Array&ArrayList&LinkedList](https://github.com/yeslcape/j.cs/blob/main/Data%20Structure/Array%26ArrayList%26LinkedList.md)
 * [Stack&Queue](https://github.com/yeslcape/j.cs/blob/main/Data%20Structure/Stack%26Queue.md)
