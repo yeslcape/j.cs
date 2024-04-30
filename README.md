@@ -2,6 +2,7 @@
 
 ### Computer Architecture
 * [컴퓨터구조](Computer%20Architecture/컴퓨터구조.md)
+* [CPU](Computer%20Architecture/CPU.md)
 
 ### Data Structure
 * [Array&ArrayList&LinkedList](https://github.com/yeslcape/j.cs/blob/main/Data%20Structure/Array%26ArrayList%26LinkedList.md)
