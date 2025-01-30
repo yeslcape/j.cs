@@ -33,6 +33,7 @@
 <br/>
 <br/>
 Reference
+
 - https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4_%EA%B4%80%EB%A6%AC_%EC%8B%9C%EC%8A%A4%ED%85%9C
 - https://www.nutanix.com/kr/info/database-management
 - https://movefast.tistory.com/84
